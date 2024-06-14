@@ -1,7 +1,6 @@
 # como eu faço para hospedar um servidor do free fire aquiiiii?????
 
-![black-clover](https://github.com/YanLeandro789/ALEJADOS/assets/142691022/359de8e1-969b-41ae-84bc-e2d9cbb15b95)
-
+![black-clover](https://github.com/YanLeandro789/YanLeandro789/assets/142691022/197fddfd-b66b-4bf1-8b2a-08fabdea0ac4)
 
 ## Linguagens:
 <div style="display: inline_block"><br>
