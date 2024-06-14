@@ -1,4 +1,4 @@
-# como eu faço para hospedar um servidor do free fire aquiiiii?????
+# Como eu faço para hospedar um servidor do free fire aquiiiii?????
 
 ![black-clover](https://github.com/YanLeandro789/YanLeandro789/assets/142691022/197fddfd-b66b-4bf1-8b2a-08fabdea0ac4)
 
