@@ -15,7 +15,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/YanLeandro789/YanLeandro789/assets/142691022/3b6a80ae-62e8-472f-90f4-eff4f645781c" width="350">
+      <img src="https://github.com/YanLeandro789/YanLeandro789/assets/142691022/3b6a80ae-62e8-472f-90f4-eff4f645781c" width="400">
     </td>
   </tr>
 </table>
