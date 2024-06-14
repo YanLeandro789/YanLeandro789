@@ -1,3 +1,4 @@
+
 # Como eu faço para hospedar um servidor do Free Fire aqui?
 
 <table>
@@ -14,17 +15,17 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/YanLeandro789/YanLeandro789/assets/142691022/3b6a80ae-62e8-472f-90f4-eff4f645781c" width="300">
+      <img src="https://github.com/YanLeandro789/YanLeandro789/assets/142691022/3b6a80ae-62e8-472f-90f4-eff4f645781c" width="350">
     </td>
   </tr>
 </table>
 
 <h2 style="color: #FF6347;">Linguagens de programação que conheço:</h2>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <h2 style="color: #1E90FF;">Meios de Contato🔎</h2>
@@ -36,3 +37,4 @@
 
 <h2 style="color: #32CD32;">Visitantes</h2>
 <img src="https://komarev.com/ghpvc/?username=YanLeandro789&color=green" alt="Contador de Visitantes">
+
