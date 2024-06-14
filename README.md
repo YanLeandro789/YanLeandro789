@@ -11,7 +11,7 @@
         <li>Eu gosto de jogar e programar jogos;</li>
         <li>Meu hobby é jogar basquete e escutar música;</li>
         <li>Pretendo ser programador e editor de vídeos;</li>
-        <li>Gosto de zoar com tudo.</li>
+        <li>Gosto de zoar com tudo.</li> <br>
       </ul>
     </td>
     <td>
