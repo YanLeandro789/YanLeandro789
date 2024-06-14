@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>
-      <h2>Sobre Mim</h2>
+      <h2>Sobre Mim 🤨</h2>
    
 - Opan! Eu sou Yan Leandro, mas pode me chamar de ALEJADOs;
 - Tenho 17 anos;
